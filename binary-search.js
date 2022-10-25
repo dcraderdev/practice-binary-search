@@ -1,5 +1,5 @@
 function linearSearch(arr, target) {
-  return (search = arr.indexOf(target));
+  return search = arr.indexOf(target);
 }
 
 
@@ -37,3 +37,4 @@ function binarySearch(arr, target) {
 }
 
 module.exports = [linearSearch, binarySearch];
+
