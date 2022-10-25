@@ -1,6 +1,7 @@
 function linearSearch (arr, target) {
 
   // Can you solve this in one line?
+  console.log();
 
 };
 
