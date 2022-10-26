@@ -75,4 +75,14 @@ console.log(recursiveBinarySearch(arr, x));
 console.log(binarySearch(arr, x));
 console.log(linearSearch(arr, x));
 
-module.exports = [linearSearch, binarySearch];
+
+
+
+
+
+
+
+
+
+
+
